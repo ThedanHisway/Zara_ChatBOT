@@ -3,7 +3,7 @@
 ## Project Summary
 
 **Objective:**
-To enhance customer service at Adrien's Pizza Store by developing an efficient and user-friendly chatbot named Zara-Chatbot. The chatbot is designed to handle order placement, order tracking, and order deletion seamlessly.
+To enhance customer service at 7's Pizza Store by developing an efficient and user-friendly chatbot named Zara-Chatbot. The chatbot is designed to handle order placement, order tracking, and order deletion seamlessly.
 
 **Technologies Used:**
 - **Dialogflow:** Utilized for natural language understanding to interpret customer requests and respond appropriately.
